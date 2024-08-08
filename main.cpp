@@ -53,7 +53,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
 	Vector3 cameraTranslate{ 0.0f,1.9f,-6.49f };
 
-	Vector3 cameraRotate{ 0.26F,0.0F,0.0F };
+	Vector3 cameraRotate{ 0.26f,0.0f,0.0f };
 
 	uint32_t segmentcolor = WHITE;;
 
